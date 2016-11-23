@@ -132,6 +132,5 @@
     <orderEntry type="library" name="Maven: io.reactivex:rxjava:1.1.5" level="project" />
     <orderEntry type="library" name="Maven: com.netflix.ribbon:ribbon-eureka:2.1.5" level="project" />
     <orderEntry type="library" name="Maven: org.slf4j:slf4j-api:1.7.21" level="project" />
-    <orderEntry type="library" name="Maven: org.springframework.cloud:spring-cloud-config-server:1.1.0.RELEASE" level="project" />
   </component>
 </module>
